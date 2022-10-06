@@ -1,0 +1,21 @@
+1. git init
+    if it is in MAIN no prblm if it is in MASTER branch then to change 
+    MASTER branch to MAIN branch command is
+          git branch -m master main
+
+2. to create a notepad
+      notepad filename.txt --> notepad will open 
+                                enter your text & save it
+3.to a add noted into git
+     git add filename.txt
+
+4. to check the text added in git
+     git status
+
+5.to commit 
+   git commit -m "type any msz"
+
+6.git remote add origin http_link from github
+
+7.to push 
+  git push -u origin 
